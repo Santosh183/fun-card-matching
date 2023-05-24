@@ -134,8 +134,8 @@ export default {
     .cards-holder {
         padding: 20px;
         display: grid;
-        grid-template-columns: repeat(5, minmax(50px, 1fr));
-        gap: 12px;
+        grid-template-columns: repeat(7, minmax(36px, 1fr));
+        gap: 10px;
     }
 }
 </style>

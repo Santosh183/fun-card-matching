@@ -79,7 +79,7 @@ export default {
 }
 @media only screen and (max-width: 900px) {
     .card {
-       height: 75px;
+       height: 56px;
     }
 }
 
