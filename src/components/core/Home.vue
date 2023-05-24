@@ -156,7 +156,11 @@ export default {
 .field-container {
     padding: 10px 0px;
     display: flex;
-    gap: 30px;
+    gap: 15px;
+    justify-content: space-between;
+    input, select {
+        width: 50%;
+    }
 }
 button:disabled {
     cursor: not-allowed !important;
