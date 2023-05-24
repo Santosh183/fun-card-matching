@@ -1,6 +1,7 @@
 # cards-matching
 
-This template should help get you started developing with Vue 3 in Vite.
+Basic game of matching cards and hence increasing memory.
+- developed in vue by using vuex, vue-router and composition-api
 
 ## Recommended IDE Setup
 
