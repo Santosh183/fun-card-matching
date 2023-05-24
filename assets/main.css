@@ -1,0 +1,16 @@
+@import './base.css';
+body, html {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(90deg, var(--gradient1) 0%, var(--gradient2) 19%, var(--gradient3) 100%);
+}
+#app {
+  height: 100vh;
+  width: 100vw;
+  font-weight: normal;
+}
+* {
+  box-sizing: border-box;
+}
