@@ -74,7 +74,7 @@ export default {
                 <input v-model="userName" id="username" name="username" type="text">
             </div>
             <div class="field-container">
-                <label for="username">Difficulty Level : </label>
+                <label for="username">Difficulty : </label>
                 <select  
                     id="difficulty-level"
                     name="difficulty-level"
