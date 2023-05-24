@@ -30,7 +30,7 @@ export default {
         </div>
         <div class="card__side card__side--back">
             <img 
-                :src="`src/assets/cards/${card.id}.svg`" 
+                :src="`/assets/cards/${card.id}.svg`" 
                 alt="card"
             />
         </div>
